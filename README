@@ -1,0 +1,3 @@
+Honeycomb art project
+
+Put {honeycomb.h, servo.h, servo.c, main.cpp, example.cpp, avr_compiler.h} in avr-xgrid/firmware/xmega, modify Makefile appropriately, compile.

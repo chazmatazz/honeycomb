@@ -1,0 +1,3 @@
+[submodule "xgrid"]
+	path = xgrid
+	url = git@github.com:chazmatazz/xgrid.git
